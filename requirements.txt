@@ -1,0 +1,13 @@
+PyQt6
+requests
+pymupdf
+openai
+undetected-chromedriver
+beautifulsoup4
+psutil
+selenium
+docx2pdf
+pywin32
+pypdf
+tiktoken
+google-genai
